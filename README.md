@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksantacr" alt="ksantacr" /></a> </p>
 
-- 🔭 I’m currently working on **Thoughtworks**
 
 - 🌱 I’m currently learning **Nest.js**
 
